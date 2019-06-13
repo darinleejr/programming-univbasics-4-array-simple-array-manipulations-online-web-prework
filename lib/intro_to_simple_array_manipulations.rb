@@ -6,6 +6,6 @@ using_unshift(array, element)
 using_unshift = element
 array.unshift(using_unshift)
 
-using_pop(array, element)
-array.pop
+using_pop(array, string)
+string = array.pop
 
