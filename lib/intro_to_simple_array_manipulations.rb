@@ -18,7 +18,7 @@ item0 = array.using_shift
 shift_with_args(array, item0, item1, item2)
 {item1}, {item2} = array.shift
 
-
+using_concat()
 
 
 
