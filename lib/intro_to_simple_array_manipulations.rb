@@ -18,12 +18,12 @@ item0 = array.using_shift
 shift_with_args(array, item0, item1, item2)
 {item1}, {item2} = array.shift
 
-using_concat(array1, array2, item0, item1, item2, item3, item4, item5)
+using_concat(array1, array2, array3 item0, item1, item2, item3, item4, item5)
 array1 = [item0, item1, item2]
 array2 = [item3, item4, item5]
 array3 = array1.concat(array2)
 
-
+using_insert(array1, array2, )
 
 
 
