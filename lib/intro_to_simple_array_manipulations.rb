@@ -38,16 +38,11 @@ array = [string0, [string1, string2], string3]
 flat_array = arrary.flatten
 flat_array = [string0, string1, string2, string3]
 
-using_delete(array, )
+using_delete(array, string0, string1, string2, string3)
+array = [string0, string1, string2, string3]
+new_array = array.delete(string2)
+new_array = [string0, string1, string3]
 
-
-using_delete_at
-
-
-
-
-
-
-
+using_delete_at(array, integer0, integer1, integer2)
 
 
