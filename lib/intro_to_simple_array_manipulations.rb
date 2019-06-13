@@ -28,8 +28,9 @@ array = [element1, element2, element3]
 new_element[4] = string
 => string
 
-using_uniq
-
+using_uniq(array, new_array, item0, item1, item2, item3)
+array = [item0, item1, item2, item0, item3]
+new_array = array.uniq
 
 using_flatten
 
