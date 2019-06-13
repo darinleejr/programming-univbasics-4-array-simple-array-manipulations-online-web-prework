@@ -33,7 +33,8 @@ array = [item0, item1, item2, item0, item3]
 new_array = array.uniq
 new_array = [item0, item1, item2, item3]
 
-using_flatten
+using_flatten(array, new_array, string0 string1, string2, string3)
+array = [string0, [string1, string2], string3]
 
 
 using_delete
