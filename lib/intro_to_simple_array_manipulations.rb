@@ -1,4 +1,3 @@
-pets = ["dog", "bird", "cat"]
-new_pet = "fish"
-pets.push(new_pet)
+colors_in_the_rainbow.push = (next_color)
+
 
