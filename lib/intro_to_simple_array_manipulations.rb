@@ -1,3 +1,7 @@
-next_pet = element
-pets.push(next_pet)
+using_push(array, element)
+using_push = element
+array.push(using_push)
+
+
+pets.unshift("element")
 
