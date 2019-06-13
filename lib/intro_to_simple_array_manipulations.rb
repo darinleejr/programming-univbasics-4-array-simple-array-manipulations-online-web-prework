@@ -31,6 +31,7 @@ new_element[4] = string
 using_uniq(array, new_array, item0, item1, item2, item3)
 array = [item0, item1, item2, item0, item3]
 new_array = array.uniq
+new_array = [item0, item1, item2, item3]
 
 using_flatten
 
