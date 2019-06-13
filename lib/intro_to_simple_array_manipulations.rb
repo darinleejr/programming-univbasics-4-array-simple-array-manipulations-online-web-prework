@@ -21,7 +21,9 @@ shift_with_args(array, item0, item1, item2)
 using_concat(array1, array2, item0, item1, item2, item3, item4, item5)
 array1 = [item0, item1, item2]
 array2 = [item3, item4, item5]
-array2 = array1.concat
+array3 = array1.concat(array2)
+
+
 
 
 
